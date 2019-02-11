@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Weather App",
+    "icon": "",
+    "version": "1.0.0",
+    "slug": "weatherAppGUI",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.manestream.weatherapp"
+    },
+    "android": {
+      "package": "com.manestream.weatherapp"
+    }
+  }
+}
